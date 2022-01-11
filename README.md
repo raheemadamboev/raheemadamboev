@@ -1,6 +1,6 @@
 <h1 align="center">Hello world <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Raheem</h1>
 
-<h3 align="center">Android Developer</h3>
+<h3 align="center">Software Engineer</h3>
 
 - 👨🏾‍💻 Currently working on very cool projects.
 - ✌🏾 Looking forward to collaborating with other Android developers.

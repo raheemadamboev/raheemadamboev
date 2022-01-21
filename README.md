@@ -2,7 +2,7 @@
 
 <h3 align="center">Software Engineer</h3>
 
-- 👨🏾‍💻 Currently working on very cool projects.
+- 💻 Currently working on very cool projects.
 - ✌🏻 Looking forward to collaborating with other Android developers.
 - 📫 I'm available to answer your Android related questions on any platform.
   

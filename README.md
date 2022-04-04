@@ -1,8 +1,8 @@
 ## About me
 
 - 💻 Currently working on very cool projects.
-- ✌🏻 Looking forward to collaborating with other Android developers.
-- 📫 I'm available to answer your Android related questions on any platform.
+- ✌🏻 Looking forward to collaborating with other developers.
+- 📫 I'm available to answer your programming related questions on any platform.
   
 ## Connect me
 

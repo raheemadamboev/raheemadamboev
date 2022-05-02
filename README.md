@@ -7,7 +7,7 @@
 ## Connect me
 
 <a href="https://telegram.me/raheem_adamboev">
-  <img src="https://img.shields.io/badge/blog-%2c3e50.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
+  <img src="https://img.shields.io/badge/blog-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white" />    
 </a>&nbsp;
 <a href="https://www.linkedin.com/in/raheemadamboev/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />

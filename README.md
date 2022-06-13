@@ -2,7 +2,7 @@
 
 - 💻 Currently working on very cool projects.
 - ✌🏻 Looking forward to collaborating with other developers.
-- 📫 I'm available to answer your programming related questions on any platform.
+- 📫 I'm available to answer your questions related to programming on any platform. Just connect me :)
   
 ## Connect me
 

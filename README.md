@@ -15,6 +15,9 @@
 <a href="mailto:raheemadamboev@gmail.com">
   <img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;
+<a href="https://medium.com/@raheemadamboev">
+  <img src="https://img.shields.io/badge/medium-FFC017?style=for-the-badge&logo=medium&logoColor=white" />    
+</a>&nbsp;
 <a href="https://telegram.me/raheemadamboev">
   <img src="https://img.shields.io/badge/telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white" />    
 </a>&nbsp;

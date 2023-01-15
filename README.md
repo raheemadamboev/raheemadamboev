@@ -34,6 +34,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=raheemadamboev&theme=tokyonight" />&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raheemadamboev&layout=compact&theme=tokyonight&langs_count=10&hide=html,purebasic,scss,css" />
 
-## Visitor count
+## Visitors count
 
 <img src="https://profile-counter.glitch.me/raheemadamboev/count.svg" />
